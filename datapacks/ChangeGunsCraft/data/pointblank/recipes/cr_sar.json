@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgecr",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:strikerexciter"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:cr_sar",
+    "count": 1
+  }
+}

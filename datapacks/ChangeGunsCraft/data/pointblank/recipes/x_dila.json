@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgex",
+  "ingredients": [
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "kinetic_pixel:pistonexciter"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:x_dila",
+    "count": 1
+  }
+}

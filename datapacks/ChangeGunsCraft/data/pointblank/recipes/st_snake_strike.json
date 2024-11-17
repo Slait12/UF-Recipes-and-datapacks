@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgest",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "vintageimprovements:vanadium_sheet"
+    },
+    {
+      "item": "vintageimprovements:vanadium_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "vintageimprovements:nickel_rod"
+    },
+    {
+      "item": "vintageimprovements:nickel_rod"
+    },
+    {
+      "item": "vintageimprovements:nickel_rod"
+    },
+    {
+      "item": "vintageimprovements:nickel_rod"
+    },
+    {
+      "item": "vintageimprovements:iron_spring"
+    },
+    {
+      "item": "create:piston_extension_pole"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:st_snake_strike",
+    "count": 1
+  }
+}

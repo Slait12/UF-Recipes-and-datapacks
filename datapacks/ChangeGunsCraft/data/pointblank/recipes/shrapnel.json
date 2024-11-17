@@ -1,0 +1,85 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "minecraft:bamboo"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 130,
+        "item": "pointblank:shrapnel"
+      },
+      {
+        "chance": 15,
+        "item": "minecraft:fireworks"
+      }
+    ],
+    "sequence": [
+        {
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "kinetic_pixel:incompleteshrapnel"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "kinetic_pixel:incompleteshrapnel"
+      }
+    ]
+  },
+  {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kinetic_pixel:incompleteshrapnel"
+          },
+          [
+            {
+              "item": "minecraft:gunpowder"
+            }
+          ]
+        ],
+        "results": [
+          {
+            "item": "kinetic_pixel:incompleteshrapnel"
+          }
+        ]
+      },
+      {
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "item": "kinetic_pixel:incompleteshrapnel"
+          }
+    ],
+    "results": [
+      {
+        "item": "kinetic_pixel:incompleteshrapnel"
+      }
+    ]
+  },
+  {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kinetic_pixel:incompleteshrapnel"
+          },
+          [
+            {
+              "item": "create:copper_nugget"
+            }
+          ]
+        ],
+        "results": [
+          {
+            "item": "kinetic_pixel:incompleteshrapnel"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "kinetic_pixel:incompleteshrapnel"
+    }
+  }

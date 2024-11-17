@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgest",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "create:golden_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "create:andesite_casing"
+    },
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "vintageimprovements:small_iron_spring"
+    },
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:st_beca",
+    "count": 1
+  }
+}

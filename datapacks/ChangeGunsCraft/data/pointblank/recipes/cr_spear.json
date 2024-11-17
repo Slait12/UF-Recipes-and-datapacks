@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgecr",
+  "ingredients": [
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "create:chute"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+       "item": "create:chute"
+    },
+    {
+       "item": "create:chute"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "create:chute"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "kinetic_pixel:strikerexciter"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:cr_spear",
+    "count": 1
+  }
+}

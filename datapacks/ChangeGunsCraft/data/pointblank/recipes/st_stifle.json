@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgest",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "vintageimprovements:vanadium_rod"
+    },
+    {
+      "item": "vintageimprovements:vanadium_rod"
+    },
+    {
+      "item": "vintageimprovements:vanadium_rod"
+    },
+    {
+      "item": "vintageimprovements:redstone_module"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "vintageimprovements:vanadium_rod"
+    },
+    {
+      "item": "vintageimprovements:vanadium_rod"
+    },
+    {
+      "item": "vintageimprovements:vanadium_rod"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "item": "create:andesite_casing"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:st_stifle",
+    "count": 1
+  }
+}

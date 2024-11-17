@@ -1,0 +1,34 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "create:iron_sheet"
+      },
+      "B": {
+        "item": "minecraft:tnt"
+      },
+      "C": {
+        "item": "create:sturdy_sheet"
+      },
+      "D": {
+        "item": "kinetic_pixel:nitropropellant"
+      },
+      "E": {
+        "item": "create:cogwheel"
+      },
+      "F": {
+        "item": "create:brass_sheet"
+      }
+    },
+    "pattern": [
+      "  A  ",
+      " ABA ",
+      " CDC ",
+      "AEDEA",
+      " AFA "
+    ],
+    "result": {
+      "item": "pointblank:rocket"
+    }
+  }

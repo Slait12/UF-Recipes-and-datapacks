@@ -1,0 +1,30 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "create:iron_sheet"
+      },
+      "B": {
+        "item": "minecraft:iron_nugget"
+      },
+      "C": {
+        "item": "create:shaft"
+      },
+      "D": {
+        "item": "minecraft:fire_charge"
+      },
+      "E": {
+        "item": "minecraft:flint"
+      }
+    },
+    "pattern": [
+      "A A",
+      "BCB",
+      "BDB",
+      "AEA"
+    ],
+    "result": {
+      "item": "pointblank:cased_telescoped_ammunition"
+    }
+  }

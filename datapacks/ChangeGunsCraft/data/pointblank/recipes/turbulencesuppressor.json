@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "kinetic_pixel:specialsteelingot"
+      },
+      "B": {
+        "item": "minecraft:iron_ingot"
+      },
+      "D": {
+        "item": "kinetic_pixel:componenttemplate"
+      },
+      "E": {
+        "item": "kinetic_pixel:barrel"
+      }
+    },
+    "pattern": [
+      "AABA",
+      " DE ",
+      "AABA"
+    ],
+    "result": {
+      "item": "pointblank:turbulencesuppressor"
+    }
+  }

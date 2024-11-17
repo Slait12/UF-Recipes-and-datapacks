@@ -1,0 +1,23 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "kinetic_pixel:specialsteelingot"
+      },
+      "C": {
+        "item": "kinetic_pixel:componenttemplate"
+      }
+    },
+    "pattern": [
+      "AB ",
+      "CBB",
+      "  B"
+    ],
+    "result": {
+      "item": "pointblank:assaultgrip"
+    }
+  }

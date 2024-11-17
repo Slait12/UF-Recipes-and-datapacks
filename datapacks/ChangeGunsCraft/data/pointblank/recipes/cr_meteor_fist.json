@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgecr",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:strikerexciter"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "pointblank:assaultgrip"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "create:chute"
+    },
+    {
+      "item": "create:chute"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "kinetic_pixel:brasscompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:cr_meteor_fist",
+    "count": 1
+  }
+}

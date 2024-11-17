@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "a a",
+      "bcb"
+    ],
+    "key": {
+      "a": {
+        "item": "minecraft:iron_nugget"
+      },
+      "b": {
+        "item": "minecraft:iron_ingot"
+      },
+      "c": {
+        "item": "create:iron_sheet"
+      }
+    },
+    "result": {
+      "item": "pointblank:basicsight",
+      "count": 1
+    }
+  }

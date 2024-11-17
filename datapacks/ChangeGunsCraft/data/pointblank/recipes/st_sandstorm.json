@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgest",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "create:copper_sheet"
+    },
+    {
+      "item": "create:copper_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "createaddition:iron_rod"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "minecraft:lever"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:andesitealloycompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:gearbox"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:st_sandstorm",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "kinetic_pixel:specialsteelingot"
+      },
+      "B": {
+        "item": "minecraft:glass_pane"
+      },
+      "C": {
+        "item": "kinetic_pixel:componenttemplate"
+      },
+      "D": {
+        "item": "create:electron_tube"
+      }
+    },
+    "pattern": [
+      "AAB",
+      "CDB",
+      "ABB"
+    ],
+    "result": {
+      "item": "pointblank:horizon_vol"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "kinetic_pixel:specialsteelingot"
+      },
+      "B": {
+        "item": "minecraft:glass_pane"
+      },
+      "C": {
+        "item": "create:electron_tube"
+      },
+      "D": {
+        "item": "kinetic_pixel:componenttemplate"
+      }
+    },
+    "pattern": [
+      " A A ",
+      "BCBCB",
+      " ADA "
+    ],
+    "result": {
+      "item": "pointblank:doublecrystalreflector"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "kinetic_pixel:barrel"
+      }
+    ],
+    "processingTime": 200,
+    "results": [
+      {
+        "item": "pointblank:crossnozzle_barrel"
+      }
+    ]
+  }

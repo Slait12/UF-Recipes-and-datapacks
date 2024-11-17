@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "create:iron_sheet"
+      },
+      "B": {
+        "item": "create:propellEr"
+      },
+      "C": {
+        "item": "kinetic_pixel:specialsteelingot"
+      },
+      "D": {
+        "item": "kinetic_pixel:barrel"
+      },
+      "E": {
+        "item": "kinetic_pixel:componenttemplate"
+      }
+    },
+    "pattern": [
+      "AABC",
+      "   D",
+      "AECC"
+    ],
+    "result": {
+      "item": "pointblank:pressureaccelerator"
+    }
+  }

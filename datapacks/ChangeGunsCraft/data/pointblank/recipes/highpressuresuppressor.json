@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": false,
+    "key": {
+      "A": {
+        "item": "kinetic_pixel:specialsteelingot"
+      },
+      "B": {
+        "item": "create:sturdy_sheet"
+      },
+      "C": {
+        "item": "create:cogwheel"
+      },
+      "D": {
+        "item": "kinetic_pixel:componenttemplate"
+      },
+      "E": {
+        "item": "kinetic_pixel:barrel"
+      }
+    },
+    "pattern": [
+      "AABA",
+      " DCE",
+      "AABA"
+    ],
+    "result": {
+      "item": "pointblank:highpressuresuppressor"
+    }
+  }

@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgex",
+  "ingredients": [
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "kinetic_pixel:pistonexciter"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:x_cross_star",
+    "count": 1
+  }
+}

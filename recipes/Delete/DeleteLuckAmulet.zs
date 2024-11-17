@@ -1,0 +1,1 @@
+recipes.remove(<item:createaddition:electrum_amulet>);

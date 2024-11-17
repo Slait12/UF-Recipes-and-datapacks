@@ -1,0 +1,99 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "create:copper_sheet"
+    },
+    "loops": 1,
+    "results": [
+      {
+        "chance": 130,
+        "item": "pointblank:whistle_nor"
+      },
+      {
+        "chance": 10,
+        "item": "create:copper_nugget"
+      }
+    ],
+    "sequence": [
+        {
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "kinetic_pixel:incompletewhistlenor"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "kinetic_pixel:incompletewhistlenor"
+      }
+    ]
+  },
+      {
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "item": "kinetic_pixel:incompletewhistlenor"
+          }
+    ],
+    "results": [
+      {
+        "item": "kinetic_pixel:incompletewhistlenor"
+      }
+    ]
+  },
+  
+  {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kinetic_pixel:incompletewhistlenor"
+          },
+          [
+            {
+              "item": "kinetic_pixel:nitropropellant"
+            }
+          ]
+        ],
+        "results": [
+          {
+            "item": "kinetic_pixel:incompletewhistlenor"
+          }
+        ]
+      },
+      {
+    "type": "create:pressing",
+    "ingredients": [
+        {
+            "item": "kinetic_pixel:incompletewhistlenor"
+          }
+    ],
+    "results": [
+      {
+        "item": "kinetic_pixel:incompletewhistlenor"
+      }
+    ]
+  },
+  {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "kinetic_pixel:incompletewhistlenor"
+          },
+          [
+            {
+              "item": "create:zinc_nugget"
+            }
+          ]
+        ],
+        "results": [
+          {
+            "item": "kinetic_pixel:incompletewhistlenor"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "kinetic_pixel:incompletewhistlenor"
+    }
+  }

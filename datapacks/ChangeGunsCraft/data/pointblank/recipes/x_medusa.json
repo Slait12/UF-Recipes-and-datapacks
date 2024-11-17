@@ -1,0 +1,105 @@
+{
+  "type": "kinetic_pixel:firearmforgex",
+  "ingredients": [
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "create:precision_mechanism"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "kinetic_pixel:ammunitionbox"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:barrel"
+    },
+    {
+      "item": "kinetic_pixel:strikerexciter"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "kinetic_pixel:specialsteelcompressionsheet"
+    },
+    {
+      "item": "kinetic_pixel:gascylinder"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "item": "create:iron_sheet"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    },
+    {
+      "tag": "kinetic_pixel:jei_empty_tag"
+    }
+  ],
+  "output": {
+    "item": "pointblank:x_medusa",
+    "count": 1
+  }
+}
