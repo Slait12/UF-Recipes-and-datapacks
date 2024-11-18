@@ -1,4 +1,4 @@
-<recipetype:create:mixing>.addJsonRecipe("cacao_beans",
+<recipetype:create:mixing>.addJsonRecipe("cocoa_beans",
 {
   "type": "create:mixing",
   "heatRequirement": "heated",
@@ -15,7 +15,7 @@
   ],
   "results": [
     {
-      "item": "minecraft:cacao_beans",
+      "item": "minecraft:cocoa_beans",
       "count": 1
     }
   ],
