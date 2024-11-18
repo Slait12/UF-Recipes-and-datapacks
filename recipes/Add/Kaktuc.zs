@@ -1,13 +1,13 @@
-<recipetype:create:mixing>.addJsonRecipe("glowstone_dust",
+<recipetype:create:mixing>.addJsonRecipe("cactus",
 {
   "type": "create:mixing",
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "minecraft:redstone",
+      "item": "minecraft:slime_ball",
     },
     {
-      "item": "minecraft:gunpowder",
+      "item": "minecraft:sand",
     },
     {
       "item": "tfmg:nitrate_dust",
@@ -15,7 +15,7 @@
   ],
   "results": [
     {
-      "item": "minecraft:glowstone_dust",
+      "item": "minecraft:cactus",
       "count": 1
     }
   ],

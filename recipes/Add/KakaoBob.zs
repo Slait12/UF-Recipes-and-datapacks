@@ -1,13 +1,13 @@
-<recipetype:create:mixing>.addJsonRecipe("glowstone_dust",
+<recipetype:create:mixing>.addJsonRecipe("cacao_beans",
 {
   "type": "create:mixing",
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "item": "minecraft:redstone",
+      "item": "minecraft:coal",
     },
     {
-      "item": "minecraft:gunpowder",
+      "item": "minecraft:dirt",
     },
     {
       "item": "tfmg:nitrate_dust",
@@ -15,7 +15,7 @@
   ],
   "results": [
     {
-      "item": "minecraft:glowstone_dust",
+      "item": "minecraft:cacao_beans",
       "count": 1
     }
   ],
