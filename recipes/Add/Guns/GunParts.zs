@@ -107,3 +107,68 @@ recipes.remove(<item:kinetic_pixel:firearmworktable>);
     }
   ]
 });
+
+<recipetype:create:sequenced_assembly>.addJsonRecipe("heatpoweredfirearmblueprint",
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "count": 1,
+      "item": "pointblank:heatpoweredfirearmblueprint"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel:incompletebrasscompressionsheet"
+        },
+        {
+          "item": "vintageimprovements:brass_spring"
+        }
+      ],
+      "results": [
+        {
+          "item": "kinetic_pixel:incompletebrasscompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel:incompletebrasscompressionsheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kinetic_pixel:incompletebrasscompressionsheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kinetic_pixel:incompletebrasscompressionsheet"
+        },
+        {
+          "item": "create:iron_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kinetic_pixel:incompletebrasscompressionsheet"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "kinetic_pixel:incompletebrasscompressionsheet"
+  }
+});

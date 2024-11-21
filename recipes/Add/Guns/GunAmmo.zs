@@ -119,3 +119,34 @@ import mods.create.CuttingManager;
     "item": "kinetic_pixel:incompletedart"
   }
 });
+
+<recipetype:create:mechanical_crafting>.addJsonRecipe("rocket",
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "F": {
+      "item": "create:brass_sheet"
+    },
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "Z": {
+      "item": "createbigcannons:impact_fuze"
+    }
+  },
+  "pattern": [
+    " Z ",
+    " T ",
+    "FSF",
+    " T ",
+    "FSF"
+  ],
+  "result": {
+    "count": 1,
+    "item": "pointblank:rocket"
+  }
+});
